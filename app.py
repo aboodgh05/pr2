@@ -5,7 +5,7 @@ app = Flask(__name__)
 HTML_PAGE = """
 <!doctype html>
 <html>
-  <head><title>Addition App</title></head>
+  <head><title>Addition App abdullah gharaibeh</title></head>
   <body style="font-family: Arial; margin: 40px;">
     <h1>Simple Addition Web App</h1>
     <form method="post">
